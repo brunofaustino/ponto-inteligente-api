@@ -8,6 +8,7 @@ class PontoInteligenteApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("TESTE");
 	}
 
 }
